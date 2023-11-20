@@ -1,3 +1,3 @@
 # NeutronGames
-not a games website
-\nthe password is not Password
+# not a games website
+# the password is not Password
