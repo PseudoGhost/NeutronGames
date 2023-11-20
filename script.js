@@ -14,7 +14,7 @@ function buttonPress () {
 	let passwordEntered = document.getElementById("pwd").value;
 	if (passwordEntered === "Password") {
 		console.log("logged in!");
-		openWin("https://neutrongames.olemon.repl.co/home.html");
+		openWin("https://neutron-games-delta.vercel.app/home.html");
 	} else if (passwordEntered === "") {} else {
 		alert("Incorrect password");
 	}
