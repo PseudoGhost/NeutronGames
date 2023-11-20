@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend&display=swap');
+
+html {
+	height: 100%;
+	width: 100%;
+}
+
+body {
+	background-color: #4ba4bd;
+	font-family: "Lexend", sans-serif;
+}
+
+.PasswordInput {
+	font-family: "Lexend", sans-serif;
+	width: 200px;
+	height: 30px;
+	font-size: 20px;
+	border-radius: 5px;
+	border: 2px solid black;
+}
+
+.enter {
+	font-family: "Lexend", sans-serif;
+	width: 60px;
+	height: 20px;
+	font-size: 12px;
+	border-radius: 5px;
+	border: 2px solid black;
+}
