@@ -19,3 +19,9 @@ function buttonPress () {
 		alert("Incorrect password");
 	}
 }
+
+function changeGame (game) {
+	if (game == "Appel") {
+		openWin("https://neutron-games-delta.vercel.app/appel.html");
+	}
+}
